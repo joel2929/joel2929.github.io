@@ -1,6 +1,6 @@
 ---
-title: Doggie 🐕
-date: 2025-06-12
+title: Jimmy
+date: 2025-06-11 12:00:00 -500
 catergories: [dog, jimmy]
 tags: [test]
 ---
@@ -9,7 +9,7 @@ tags: [test]
 
 ### Stats
 - DOB: October 19 2013
-- Weight: ~5lbs
+- Weight: ~5lb
 - Height: ~10 in (toe to ear tips)
 
 ## Photos
