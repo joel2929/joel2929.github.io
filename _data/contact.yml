@@ -4,7 +4,8 @@
   icon: "fab fa-github"
 
 - type: instagram
-  icon: "fa fa-instagram"
+  icon: "fa-instagram"
+  url:  'https://www.instagram.com/joeltuesday/'  
 
 # - type: email
 #   icon: "fas fa-envelope"
