@@ -1,6 +1,6 @@
 ---
-title: 🐕
-date: 2025-06-13
+title: Doggie 🐕
+date: 2025-06-12
 catergories: [dog, jimmy]
 tags: [test]
 ---
@@ -14,11 +14,11 @@ tags: [test]
 
 ## Photos
 
-<!-- ![alt text](image.png)
+![alt text](image.png)
 ![alt text](image-3.png)
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 ![alt text](image-5.png)
-![alt text](image-4.png) -->
+![alt text](image-4.png)
 
 
