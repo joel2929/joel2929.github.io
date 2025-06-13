@@ -2,7 +2,7 @@
 title: 🐕
 date: 2025-06-13
 catergories: [dog, jimmy]
-tags: test
+tags: [test]
 ---
 
 ## Jimmy 
@@ -20,3 +20,5 @@ tags: test
 ![alt text](image-1.png)
 ![alt text](image-5.png)
 ![alt text](image-4.png)
+
+
