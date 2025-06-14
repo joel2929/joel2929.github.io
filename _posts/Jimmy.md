@@ -10,7 +10,7 @@ tags: [test]
 ### Stats
 - DOB: October 19 2013
 - Weight: ~5lb
-- Height: ~10 in (toe to ear tips)
+- Height: ~10 in (paws to ear tips)
 
 ## Photos
 
