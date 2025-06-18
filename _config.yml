@@ -16,7 +16,7 @@ timezone: America/New York
 
 title: Personal Page # the main title
 
-tagline: Just a page where I add things that I am interested in.  # it will display as the subtitle
+tagline: A space dedicated to subjects and ideas that capture my interest  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
