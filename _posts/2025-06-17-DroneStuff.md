@@ -13,13 +13,3 @@ layout: post
 
 <!-- ![Image title](https://dummyimage.com/600x400/eee/aaa){ .image45percent } -->
 
-{%
-  include embed/video.html
-  src='/assets/img/testingPower.mov'
-  types='ogg|mov'
-  poster='poster.png'
-  title='Demo video'
-  autoplay=true
-  loop=true
-  muted=true
-%}
