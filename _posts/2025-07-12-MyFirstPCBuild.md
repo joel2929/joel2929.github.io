@@ -132,16 +132,16 @@ In March of 2023 I decided to build a PC because my laptop was showing its age a
 
 ## Different Fan configuration
 
-<center>Config 1 </center>
+<center>Config. 1 </center>
 ![PC previous version](/assets/img/PC_preVer2.jpg)
-<center>Config 2 </center>
+<center>Config. 2 </center>
 ![PC previous version](/assets/img/PC_preVer.jpg)
-<center>Config 3 </center>
+<center>Config. 3 </center>
 ![PC previous version](/assets/img/PC_preVer3.jpg)
 <center>Final Config </center>
 ![PC previous version](/assets/img/PC_CurVer_Airflow.jpg)
 
-Ultimately, this configuration gave me the best results. I was concerned the exhausted heat from the GPU would be a problem but it did not affect it as much as the oher configurations. May look into water cooling when upgrading CPU in the future.
+Ultimately, this configuration gave me the best results. I was concerned the exhausted heat from the GPU would be a problem but it did not affect it as much as the other configurations. May look into water cooling when upgrading CPU in the future.
 
 
 
